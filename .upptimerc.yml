@@ -12,17 +12,12 @@ sites:
     method: GET
     expectedStatusCode: 200
 
-  - name: Test Alert Canary
-    url: https://coach.thecreativetoken.com/this-page-does-not-exist-test-alert
-    method: GET
-    expectedStatusCode: 200
-
 status-website:
   baseUrl: /coach-upptime
   name: Coach Status
   theme: dark
   introTitle: "**Coach** uptime and status monitoring."
-  introMessage: This status page tracks the availability of [Coach](https://coach.thecreativetoken.com).
+  introMessage: This status page tracks the availability of [Coach](https://coach.thecreativetoken.com), an AI-powered personal fitness coaching platform.
   navbar:
     - title: Status
       href: /
