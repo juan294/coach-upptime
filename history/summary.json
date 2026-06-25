@@ -34,5 +34,25 @@
     "timeMonth": 703,
     "timeYear": 703,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Test Alert Canary",
+    "url": "https://coach.thecreativetoken.com/this-page-does-not-exist-test-alert",
+    "icon": "https://icons.duckduckgo.com/ip3/coach.thecreativetoken.com.ico",
+    "slug": "test-alert-canary",
+    "status": "down",
+    "uptime": "76.29%",
+    "uptimeDay": "76.29%",
+    "uptimeWeek": "76.29%",
+    "uptimeMonth": "76.29%",
+    "uptimeYear": "76.29%",
+    "time": 154,
+    "timeDay": 154,
+    "timeWeek": 154,
+    "timeMonth": 154,
+    "timeYear": 154,
+    "dailyMinutesDown": {
+      "2026-06-25": 0
+    }
   }
 ]
