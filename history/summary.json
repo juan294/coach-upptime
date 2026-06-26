@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1478,
-    "timeDay": 1478,
-    "timeWeek": 1478,
-    "timeMonth": 1478,
-    "timeYear": 1478,
+    "time": 1522,
+    "timeDay": 1522,
+    "timeWeek": 1522,
+    "timeMonth": 1522,
+    "timeYear": 1522,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 703,
-    "timeDay": 703,
-    "timeWeek": 703,
-    "timeMonth": 703,
-    "timeYear": 703,
+    "time": 851,
+    "timeDay": 851,
+    "timeWeek": 851,
+    "timeMonth": 851,
+    "timeYear": 851,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Test Alert Canary",
-    "url": "https://coach.thecreativetoken.com/this-page-does-not-exist-test-alert",
-    "icon": "https://icons.duckduckgo.com/ip3/coach.thecreativetoken.com.ico",
-    "slug": "test-alert-canary",
-    "status": "down",
-    "uptime": "76.29%",
-    "uptimeDay": "76.29%",
-    "uptimeWeek": "76.29%",
-    "uptimeMonth": "76.29%",
-    "uptimeYear": "76.29%",
-    "time": 154,
-    "timeDay": 154,
-    "timeWeek": 154,
-    "timeMonth": 154,
-    "timeYear": 154,
-    "dailyMinutesDown": {
-      "2026-06-25": 0
-    }
   }
 ]
