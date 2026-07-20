@@ -22,17 +22,17 @@
     "url": "https://coach.thecreativetoken.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/coach.thecreativetoken.com.ico",
     "slug": "coach-api-health",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 857,
-    "timeDay": 640,
-    "timeWeek": 925,
-    "timeMonth": 857,
-    "timeYear": 857,
+    "time": 852,
+    "timeDay": 682,
+    "timeWeek": 896,
+    "timeMonth": 852,
+    "timeYear": 852,
     "dailyMinutesDown": {}
   }
 ]
