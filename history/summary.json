@@ -22,22 +22,23 @@
     "url": "https://coach.thecreativetoken.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/coach.thecreativetoken.com.ico",
     "slug": "coach-api-health",
-    "status": "down",
-    "uptime": "90.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "58.59%",
-    "uptimeMonth": "90.47%",
-    "uptimeYear": "90.82%",
-    "time": 819,
-    "timeDay": 660,
-    "timeWeek": 723,
-    "timeMonth": 822,
-    "timeYear": 819,
+    "status": "up",
+    "uptime": "90.65%",
+    "uptimeDay": "94.10%",
+    "uptimeWeek": "57.74%",
+    "uptimeMonth": "90.28%",
+    "uptimeYear": "90.65%",
+    "time": 812,
+    "timeDay": 631,
+    "timeWeek": 710,
+    "timeMonth": 815,
+    "timeYear": 812,
     "dailyMinutesDown": {
       "2026-07-23": 371,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
-      "2026-07-20": 923
+      "2026-07-20": 923,
+      "2026-07-27": 85
     }
   }
 ]
